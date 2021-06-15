@@ -9,4 +9,4 @@ The server.py needs to be deployed on a server with either a static ip address o
 Currently the encryption algorithm is not implemented.
 
 Note that this is just the basic working and many features are yet to be added.
-Thankyou.
+Shout out to Neural Nine for the awesome content on tcp sockets.
